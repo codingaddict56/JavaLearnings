@@ -1,3 +1,8 @@
+package com.techsolutions.hr.app;
+
+import com.techsolutions.hr.model.Employee;
+import com.techsolutions.hr.model.Manager;
+
 public class Main {
     public static void main(String[] args) {
 

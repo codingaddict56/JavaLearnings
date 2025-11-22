@@ -1,3 +1,5 @@
+package com.techsolutions.hr.model;
+
 public class Employee {
 
     private int empID;

@@ -1,3 +1,5 @@
+package com.techsolutions.hr.model;
+
 public class Manager extends Employee{
 
     private String empDepartment;
